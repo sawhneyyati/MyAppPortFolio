@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAppPortFolio</string>
+    <string name="my_nanodegree_apps">My NanoDegree Apps!</string>
+    <string name="launchCapstone">This button will launch my Capstone App</string>
+    <string name="launchGoUbiquitous">This button will launch my Go Ubiquitous App</string>
+    <string name="launchMakeYourMaterial">This button will launch my Make your Material App</string>
+    <string name="launchBuildItBigger">This button will launch my Build It Bigger App</string>
+    <string name="launchStawkHawk">This button will launch my Stock Hawk App</string>
+    <string name="launchPopularMovies">The button will launch my Popular Movies App</string>
+</resources>
